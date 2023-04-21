@@ -1,15 +1,5 @@
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-
-# Test binary, built with `go test -c`
-*.test
-
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
+[user]
+        email = steinarb@uia.no
+        name = Steinar Blom
+[url "https://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:@github.com/"]
+        insteadOf = https://github.com/
